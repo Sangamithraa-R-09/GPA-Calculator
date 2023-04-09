@@ -10,10 +10,11 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="300dp"
-        android:layout_height="400dp"
+        android:layout_height="350dp"
         android:layout_gravity="center"
         android:layout_marginTop="120dp"
-        app:cardBackgroundColor="#5B000000">
+        app:cardBackgroundColor="#5B000000"
+        app:cardCornerRadius="25dp">
 
         <TextView
             android:layout_width="wrap_content"
@@ -40,21 +41,21 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_gravity="center"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="60dp"
             app:cardCornerRadius="10dp"
             android:textColor="@color/white"
             android:textSize="25dp"
             android:textStyle="bold">
-
         </TextView>
 
 
     </androidx.cardview.widget.CardView>
+
     <Button
         android:id="@+id/back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="BACK"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="50dp"
+        android:text="BACK" />
 </LinearLayout>

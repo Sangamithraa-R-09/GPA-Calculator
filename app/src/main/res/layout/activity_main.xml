@@ -86,6 +86,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="50dp"
         android:text="NEXT"
-        tools:ignore="HardcodedText" />
+        tools:ignore="HardcodedText"
+        />
 
 </LinearLayout>

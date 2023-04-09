@@ -21,7 +21,7 @@
         />
     <EditText
         android:id="@+id/sem"
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
@@ -41,7 +41,7 @@
         />
     <EditText
         android:id="@+id/sub"
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
@@ -60,7 +60,7 @@
         />
     <EditText
         android:id="@+id/credits"
-        android:layout_width="match_parent"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
